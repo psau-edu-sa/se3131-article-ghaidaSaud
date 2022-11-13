@@ -1,30 +1,14 @@
-# Formal specifications
-### using petri net to formally specify the following system (the street near to the  alkharj municipality): 
-#### we have to keep an eye on the following ***rules***:
+# Formal specifications research 
+I did a research when i studied Formal specification this trimester. The research is about formal specification reasoning and the importance of it, and why it is very important in critical systems and in some of SDLC stages even tho it's usually complicated and expensive process, it was a fun experience and i learned so much from it.
 
-- The traffic lights must work with the *order* mentioned in the picture.
+### formal specification reasoning
 
-- The two traffic lights at lane 1 can be *green* and the rest are *red*.
+The development of a formal specification states insights and better understanding of the software requirements and the software design. A System Formal specification can be designed using a modeling language typically by using a formal, mathematical syntax and semantics that eliminate inaccuracy and ambiguity and formally defined formal specification is very precise which make it easier to detect wrong specification and correct it. This is similar to writing down system specifications, though it is not like informal specifications or in plain English where errors detection is more difficult because informal specifications is often ambiguous. Using a formal notation gives a better understanding of the system operations, especially in the design phase. It helps to organize the ideas and thoughts of the designer, making simpler designs possible. One of the benefits of using formal specification methods in critical systems is it will help lower the total cost of the system because errors diction at the design phase is cheaper to correct than if they are found later stages, The possibility of errors occurring in a design is reduced, Also the design testing during the implementation phase will be reduced since the possibility of errors is reduced as well in the design phase. Using formal methods can help to explore the design options. These methods help the designers in thinking about the operation of the system before the implementation phase. The quality of the system documentation will be improved. By using the formal design, it is likely that all the important information and a full description about the system requirements will be included in the documentation. Formal specifications are mathematical entities may be analyzed and studied using mathematical methods and can be used to validate a system specification is 100% correct. by given a formal system specification and a formal programming language definition, it is possible to prove that a program confirms its specifications. it can be proved in many ways in different levels of formality, and one of the ways to prove it is by using actual formal proofs performed with the assistance of a theorem prover, or under the control of a proof checker tools. Finally, Formal specification can be most useful in critical and complicated systems because these systems involves a plan-based software process that is based mostly on waterfall model, so the system requirements and the system design are carefully explained and analyzed before the implementation phase begin because in this model the team usually can’t go back to previous phases to correct errors so the formal specification must be developed after the system requirements collected and before the system design, because as you develop and create the formal specifications your understanding of the system will increase and you might notice details you were unaware of and that will make you system design more accurate.
 
-- The two traffic lights at lane 2 can be *green* and the rest are *red*.
+### Formal specification reasoning file:
+[Formal Specification Reasoning - Ghaida alTuwaim copy.pdf](https://github.com/psau-edu-sa/se3131-article-ghaidaSaud/files/9997225/Formal.Specification.Reasoning.-.Ghaida.alTuwaim.copy.pdf)
 
-- The traffic light at lane 3 can be *green* and the rest are *red*.
-
-- The traffic light at lane 4 can be *green* and the rest are *red*.
-
-- The traffic light at lane 5 allows cars to return when it is *not conflict with another traffic light*.
-
-![IMG_7760](https://user-images.githubusercontent.com/118076117/201492859-a92f0a69-8dd5-4fee-a3d0-2f1b8a7fda6c.jpeg)
-### the file with our explnation:
-![IMG_1145](https://user-images.githubusercontent.com/118076117/201492901-b4853367-557c-4c61-a6fd-05ac2aa0752e.jpeg)
-### the solution using petri nets:
-![IMG_1146](https://user-images.githubusercontent.com/118076117/201492991-1fbc5497-18c2-4eac-8b81-deacaad618c5.jpeg)
-### the solution with our explnation:
-![IMG_1147](https://user-images.githubusercontent.com/118076117/201493023-81aa6548-a7ee-48ab-a182-fdbde7a17b5c.jpeg)
-### petri net code:
-[Ghaida saud tuwaim petri net code.pdf](https://github.com/psau-edu-sa/se3131-article-ghaidaSaud/files/9995860/Ghaida.saud.tuwaim.petri.net.code.pdf)
-### explnation video:
-https://user-images.githubusercontent.com/118076117/201493323-8417b23b-48ed-4005-be18-af0be8d745f5.mp4
-
-
-
+Student name: 
+ghaida saud tuwaim 
+student number:
+442051685
